@@ -2,7 +2,7 @@
 
 ## run script
 <img align="left" width="300" src="./docs/run.png">
-<br>
+<hr>
 ## script result
 <img align="left" width="300" src="./docs/tree.png">
 * img: 이미지 파일 디렉토리
